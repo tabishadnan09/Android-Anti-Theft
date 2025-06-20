@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.xncoder.advanceprotection.app-mergeDebugResources-34:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\8.10.2\\transforms\\f7e675e8c79c2ba8fcad1e8db9a79aa5\\transformed\\material-1.11.0\\res\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "64",
+                        "endOffsets": "115"
+                    }
+                }
+            ]
+        }
+    ]
+}

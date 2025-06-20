@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.xncoder.advanceprotection.app-mergeDebugResources-34:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASUS\\.gradle\\caches\\8.10.2\\transforms\\f7e675e8c79c2ba8fcad1e8db9a79aa5\\transformed\\material-1.11.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}
