@@ -77,10 +77,6 @@ Run the app on your Android device.
 
 ---
 
-📸 Screenshots (Recommended)
-
-[App Screenshot] (https://github.com/user-attachments/assets/af60583e-c4a1-4cee-be13-91ac01468673)
-
 🙋‍♂️ Author
 Tabish Adnan Qureshi
 Android Developer | Final Year Student
