@@ -79,16 +79,13 @@ Run the app on your Android device.
 
 ## 📷 Screenshots
 
-![1](https://github.com/user-attachments/assets/10d4072c-d6ec-4344-b9a7-cad47a418bd5)
-![2](https://github.com/user-attachments/assets/cac2423c-c01f-4c87-85b7-2fdea4dcdb1c)
-![3](https://github.com/user-attachments/assets/b3915e9e-56ea-42b3-ba4f-4b64123a425f)
-![4](https://github.com/user-attachments/assets/b35d0806-6ace-4a2c-827c-faeadf6450ec)
-![5](https://github.com/user-attachments/assets/93390c63-de89-49d0-8b51-843b7e284334)
-![6](https://github.com/user-attachments/assets/0a4ec900-7206-461b-a6e7-8e37fb018608)
-
-
-
-
+![1](https://github.com/user-attachments/assets/e2921129-36e0-4734-8dd3-390132971059)
+![2](https://github.com/user-attachments/assets/4b2f1fa5-65a7-4367-8811-d58037a17445)
+![3](https://github.com/user-attachments/assets/6f18ea1a-4ad3-4aa0-8296-1144b261b175)
+![4](https://github.com/user-attachments/assets/29871162-b13e-4716-a894-576aaf43a689)
+![5](https://github.com/user-attachments/assets/26cf81fe-0275-4047-9852-eac751b47258)
+![6](https://github.com/user-attachments/assets/476936d4-12da-49fb-8705-a35957d2653a)
+---
 
 🙋‍♂️ Author
 Tabish Adnan Qureshi
