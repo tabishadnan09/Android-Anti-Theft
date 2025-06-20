@@ -77,15 +77,9 @@ Run the app on your Android device.
 
 ---
 
-## 📷 Screenshots
+📸 Screenshots (Recommended)
 
-![1](https://github.com/user-attachments/assets/e2921129-36e0-4734-8dd3-390132971059)
-![2](https://github.com/user-attachments/assets/4b2f1fa5-65a7-4367-8811-d58037a17445)
-![3](https://github.com/user-attachments/assets/6f18ea1a-4ad3-4aa0-8296-1144b261b175)
-![4](https://github.com/user-attachments/assets/29871162-b13e-4716-a894-576aaf43a689)
-![5](https://github.com/user-attachments/assets/26cf81fe-0275-4047-9852-eac751b47258)
-![6](https://github.com/user-attachments/assets/476936d4-12da-49fb-8705-a35957d2653a)
----
+[App Screenshot] (https://github.com/user-attachments/assets/af60583e-c4a1-4cee-be13-91ac01468673)
 
 🙋‍♂️ Author
 Tabish Adnan Qureshi
