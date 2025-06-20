@@ -79,5 +79,5 @@ Run the app on your Android device.
 
 🙋‍♂️ Author
 Tabish Adnan Qureshi
-Android Developer | Final Year Student
+Fullstack Developer | Final Year Student
 GitHub Profile »
